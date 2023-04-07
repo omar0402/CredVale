@@ -1,0 +1,16 @@
+{
+  "name": "credvale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://omar0402.github.io/CredVale",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
